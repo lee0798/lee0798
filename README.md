@@ -1,6 +1,16 @@
 <div align="center">	
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Dohwan%20Github😄&animation=twinkling&fontSize=50" />
  </div>
+  
+### introduction💬
+
+	
+##### Hello I'm DohwanLee, studying computer science engineering at HUFS university. 
+
+##### I will study harder in the future! Please keep an eye on. 
+
+##### look at my blog, codes ...
+ 	
  
 ### I can use⚡
 
