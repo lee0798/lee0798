@@ -19,7 +19,7 @@
 
 
 
-### I’m currently working 🌱
+### I’m currently working on my best 🌱
 
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee0798&layout=compact"><br><br>
