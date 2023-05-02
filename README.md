@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Dohwan%20Github😄&fontSize=90)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Dohwan Github😄&fontSize=90" />
+
 
 <!--
 **lee0798/lee0798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
